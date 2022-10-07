@@ -19,10 +19,15 @@ namespace G309
 
         private void Form1_Load(object sender, EventArgs e)
         {
-
+            //kkk
         }
 
         private void groupBox1_Enter(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button5_Click(object sender, EventArgs e)
         {
 
         }
