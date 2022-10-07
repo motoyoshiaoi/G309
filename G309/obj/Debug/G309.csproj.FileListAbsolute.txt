@@ -18,3 +18,13 @@ C:\Users\C0370\Downloads\G309_ベースプロジェクト\G309_ベースプロ�
 C:\Users\C0370\Downloads\G309_ベースプロジェクト\G309_ベースプロジェクト\G309\obj\Debug\G309.csproj.CoreCompileInputs.cache
 C:\Users\C0370\Downloads\G309_ベースプロジェクト\G309_ベースプロジェクト\G309\obj\Debug\G309.exe
 C:\Users\C0370\Downloads\G309_ベースプロジェクト\G309_ベースプロジェクト\G309\obj\Debug\G309.pdb
+C:\Users\C0411\Documents\GitHub\G309\G309\bin\Debug\G309.exe.config
+C:\Users\C0411\Documents\GitHub\G309\G309\bin\Debug\G309.exe
+C:\Users\C0411\Documents\GitHub\G309\G309\bin\Debug\G309.pdb
+C:\Users\C0411\Documents\GitHub\G309\G309\obj\Debug\G309.csproj.AssemblyReference.cache
+C:\Users\C0411\Documents\GitHub\G309\G309\obj\Debug\G309.home.resources
+C:\Users\C0411\Documents\GitHub\G309\G309\obj\Debug\G309.Properties.Resources.resources
+C:\Users\C0411\Documents\GitHub\G309\G309\obj\Debug\G309.csproj.GenerateResource.cache
+C:\Users\C0411\Documents\GitHub\G309\G309\obj\Debug\G309.csproj.CoreCompileInputs.cache
+C:\Users\C0411\Documents\GitHub\G309\G309\obj\Debug\G309.exe
+C:\Users\C0411\Documents\GitHub\G309\G309\obj\Debug\G309.pdb
